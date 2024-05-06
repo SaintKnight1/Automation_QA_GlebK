@@ -1,1 +1,1 @@
-# Stepik_automation_QA
+# Automation_QA
